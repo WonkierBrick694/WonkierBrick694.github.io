@@ -85,6 +85,11 @@ body > footer > h2 {
     color: white;
 }
 
+.product-card{
+    display: flex;
+    justify-content: space-around;
+}
+
 #footer-ul {
     display: flex;
     list-style: none;
